@@ -16,4 +16,4 @@ def updateDataThreading (counter, startTime, endTime):
             except Exception as e:
                 pass
 #                                          Change these numbers!
-updateDataThreading (1, datetime.datetime (2001, 1, 1), datetime.datetime (2002, 1, 1))
+updateDataThreading (1, datetime.datetime (2003, 1, 1), datetime.datetime (2004, 1, 1))
